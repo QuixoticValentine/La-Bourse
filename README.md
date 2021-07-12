@@ -1,5 +1,5 @@
 # La-Bourse
-Modal exchange
+Model exchange built in V.
 
 
 # todo
